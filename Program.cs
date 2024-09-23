@@ -155,7 +155,7 @@ namespace NumbersGame
 
             string choice = Console.ReadLine();
 
-            // The switch loop change maxNumber base on the users choise
+            // The switch loop change maxNumber base on the users choice
             switch (choice)
             {
                 case "1":
