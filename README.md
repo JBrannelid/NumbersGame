@@ -1,6 +1,7 @@
 # NumbersGame
 
 Introduction
+
 NumbersGame is a simple console-based guessing game where the player attempts to guess a randomly generated number within a specified range.
 The game provides a menu with options to start a new game, adjust settings, or exit
 
